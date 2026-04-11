@@ -9,14 +9,12 @@ export default function Navbar() {
       style={{ background: 'rgba(15,35,25,0.92)', backdropFilter: 'blur(12px)', borderBottom: '1px solid rgba(192,125,47,0.2)' }}
     >
       <nav className="max-w-7xl mx-auto px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-between py-3">
           <a href="#" className="flex items-center gap-3 group">
-            <div style={{ width: 36, height: 36, background: 'var(--amber)', borderRadius: 2, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-              <span style={{ fontFamily: "'Playfair Display', serif", fontWeight: 900, color: 'white', fontSize: '1.1rem' }}>A</span>
-            </div>
+            <img src="/ant-logo.png" alt="ANT Logo" style={{ width: 72, height: 72, objectFit: 'contain' }} />
             <div>
               <div style={{ fontFamily: "'Playfair Display', serif", fontWeight: 700, color: 'var(--cream)', fontSize: '0.95rem', lineHeight: 1.2 }}>ACCELERATING NETWORK TOGETHER</div>
-              <div style={{ fontSize: '0.6rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)', fontWeight: 600 }}>ANT · Eldoret, Kenya</div>
+              <div style={{ fontSize: '0.6rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)', fontWeight: 600 }}>ANT · Kenya (HQ: Eldoret)</div>
             </div>
           </a>
 

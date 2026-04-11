@@ -6,22 +6,22 @@ const QuoteIcon = () => (
 
 const testimonials = [
   {
-    quote: '"ANT\'s health outreach program reached my family when we had no access to a clinic. Today my children are vaccinated and my wife received maternal care. This organization gave us hope."',
+    quote: '"ANT\'s health outreach and cancer screening program reached my family when we had no access to a clinic. Today my children are vaccinated and my wife received maternal care. This organization gave us hope."',
     name: 'James M.',
-    role: 'Community Member, Eldoret',
-    img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=60&h=60&fit=crop&face&q=80',
+    role: 'Community Member, Kisumu',
+    img: 'https://images.unsplash.com/photo-1531384441138-2736e62e0919?w=60&h=60&fit=crop&q=80',
   },
   {
     quote: '"The vocational training I received through ANT helped me start a tailoring business. I now employ two other women from my community. The transformation is real and lasting."',
     name: 'Grace W.',
-    role: 'Program Graduate, Eldoret',
-    img: 'https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=60&h=60&fit=crop&face&q=80',
+    role: 'Program Graduate, Nairobi',
+    img: 'https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=60&h=60&fit=crop&q=80',
   },
   {
-    quote: '"As a partner organization, we\'ve seen how ANT\'s community-first approach creates real, measurable change. Their transparency and dedication make collaboration a joy."',
+    quote: '"As a partner organization, we\'ve seen how ANT\'s community-first approach creates real, measurable change across Kenya. Their transparency and dedication make collaboration a joy."',
     name: 'Dr. Peter K.',
-    role: 'Partner Organization Director',
-    img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=60&h=60&fit=crop&face&q=80',
+    role: 'Partner Organization Director, Mombasa',
+    img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=60&h=60&fit=crop&q=80',
   },
 ];
 

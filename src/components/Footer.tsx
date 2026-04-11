@@ -35,12 +35,10 @@ export default function Footer() {
 
           <div className="md:col-span-2">
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1.25rem' }}>
-              <div style={{ width: 40, height: 40, background: 'var(--amber)', borderRadius: 2, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                <span style={{ fontFamily: "'Playfair Display', serif", fontWeight: 900, color: 'white', fontSize: '1.2rem' }}>A</span>
-              </div>
+              <img src="/ant-logo.png" alt="ANT Logo" style={{ width: 80, height: 80, objectFit: 'contain' }} />
               <div>
                 <div style={{ fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: '1rem' }}>ACCELERATING NETWORK TOGETHER</div>
-                <div style={{ fontSize: '0.65rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)' }}>ANT · Eldoret, Kenya</div>
+                <div style={{ fontSize: '0.65rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)' }}>ANT · Kenya (HQ: Eldoret)</div>
               </div>
             </div>
             <p style={{ fontSize: '0.88rem', lineHeight: 1.8, color: 'rgba(245,240,232,0.6)', maxWidth: 340 }}>

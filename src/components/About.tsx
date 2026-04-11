@@ -9,8 +9,8 @@ export default function About() {
             Rooted in Community,<br /><em>Driven by Transformation</em>
           </h2>
           <p style={{ marginTop: '1rem', fontSize: '1rem', lineHeight: 1.8, color: '#4a6358' }}>
-            ANT is a community-based organization working at the intersection of health, education,
-            and economic empowerment in Eldoret, Kenya — and beyond.
+            ANT is a non-governmental organization working at the intersection of health, education,
+            and economic empowerment across Kenya — headquartered in Eldoret.
           </p>
         </div>
 
@@ -54,8 +54,8 @@ export default function About() {
 
         <div style={{ marginTop: '5rem', borderRadius: 4, overflow: 'hidden', position: 'relative', height: 300 }}>
           <img
-            src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1400&h=400&fit=crop&q=80"
-            alt="Community gathering Kenya"
+            src="https://images.unsplash.com/photo-1508962914676-134849a727f0?w=1400&h=400&fit=crop&q=80"
+            alt="Kenyan community cancer screening outreach"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
           <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(90deg,rgba(15,35,25,0.85) 0%,rgba(15,35,25,0.3) 60%,transparent 100%)', display: 'flex', alignItems: 'center', padding: '3rem' }}>

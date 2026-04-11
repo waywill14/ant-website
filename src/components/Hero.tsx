@@ -6,7 +6,7 @@ export default function Hero() {
 
           <div>
             <p className="section-label anim-fade-up" style={{ color: 'var(--amber)' }}>
-              Community-Based Organization · Eldoret, Kenya
+              Non-Governmental Organization · Kenya (HQ: Eldoret)
             </p>
             <h1
               className="anim-fade-up delay-100"
@@ -38,13 +38,13 @@ export default function Hero() {
           <div className="relative anim-fade-in delay-300 hidden lg:block">
             <div style={{ position: 'relative', height: 540 }}>
               <img
-                src="https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=600&h=400&fit=crop&q=80"
-                alt="Community health outreach"
+                src="/cancer screening.png"
+                alt="Cancer screening tent initiative"
                 style={{ position: 'absolute', top: 0, right: 0, width: '72%', height: 360, objectFit: 'cover', borderRadius: 4, boxShadow: '0 24px 60px rgba(0,0,0,0.4)' }}
               />
               <img
-                src="https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=300&h=220&fit=crop&q=80"
-                alt="Community members"
+                src="/community.jpg"
+                alt="Kenyan community members smiling"
                 style={{ position: 'absolute', bottom: 0, left: 0, width: '52%', height: 240, objectFit: 'cover', borderRadius: 4, border: '4px solid #1a3d2b', boxShadow: '0 16px 40px rgba(0,0,0,0.35)' }}
               />
               <div style={{ position: 'absolute', top: 260, right: 0, background: 'var(--amber)', color: 'white', padding: '1.25rem 1.5rem', borderRadius: 4, textAlign: 'center', minWidth: 120 }}>
