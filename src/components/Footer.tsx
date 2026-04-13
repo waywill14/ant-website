@@ -48,7 +48,7 @@ export default function Footer() {
               {[
                 { icon: <FacebookIcon />, url: 'https://www.facebook.com/profile.php?id=61572079712659' },
                 { icon: <TwitterIcon />, url: '#' },
-                { icon: <InstagramIcon />, url: '#' }
+                { icon: <InstagramIcon />, url: 'https://www.instagram.com/ant_kenya/' }
               ].map((item, i) => (
                 <a
                   key={i}
