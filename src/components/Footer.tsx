@@ -45,15 +45,21 @@ export default function Footer() {
               Empowering communities through integrated health, education, and socioeconomic programs. Rooted in compassion, driven by transformation.
             </p>
             <div style={{ display: 'flex', gap: '0.75rem', marginTop: '1.5rem' }}>
-              {[<FacebookIcon />, <TwitterIcon />, <InstagramIcon />].map((icon, i) => (
+              {[
+                { icon: <FacebookIcon />, url: 'https://www.facebook.com/profile.php?id=61572079712659' },
+                { icon: <TwitterIcon />, url: '#' },
+                { icon: <InstagramIcon />, url: '#' }
+              ].map((item, i) => (
                 <a
                   key={i}
-                  href="#"
+                  href={item.url}
+                  target={item.url !== '#' ? "_blank" : undefined}
+                  rel={item.url !== '#' ? "noopener noreferrer" : undefined}
                   style={socialBtnStyle}
                   onMouseOver={e => { (e.currentTarget as HTMLAnchorElement).style.background = '#c07d2f'; }}
                   onMouseOut={e => { (e.currentTarget as HTMLAnchorElement).style.background = 'rgba(255,255,255,0.08)'; }}
                 >
-                  {icon}
+                  {item.icon}
                 </a>
               ))}
             </div>
