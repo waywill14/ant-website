@@ -86,7 +86,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div style={{ fontWeight: 700, fontSize: '0.9rem', color: 'var(--forest)', marginBottom: '0.2rem' }}>Address</div>
-                  <div style={{ fontSize: '0.88rem', color: '#4a6358', lineHeight: 1.5 }}>P.O Box 10365, Eldoret, Kenya</div>
+                  <div style={{ fontSize: '0.88rem', color: '#4a6358', lineHeight: 1.5 }}>P.O Box 10365, Nairobi, Kenya</div>
                 </div>
               </div>
               <div style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>

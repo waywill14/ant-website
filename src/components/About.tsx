@@ -10,7 +10,7 @@ export default function About() {
           </h2>
           <p style={{ marginTop: '1rem', fontSize: '1rem', lineHeight: 1.8, color: '#4a6358' }}>
             ANT is a non-governmental organization working at the intersection of health, education,
-            and economic empowerment across Kenya — headquartered in Eldoret.
+            and economic empowerment across Kenya — headquartered in Nairobi.
           </p>
         </div>
 

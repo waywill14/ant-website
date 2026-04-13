@@ -6,7 +6,7 @@ export default function Hero() {
 
           <div>
             <p className="section-label anim-fade-up" style={{ color: 'var(--amber)' }}>
-              Non-Governmental Organization · Kenya (HQ: Eldoret)
+              Non-Governmental Organization · Kenya (HQ: Nairobi)
             </p>
             <h1
               className="anim-fade-up delay-100"

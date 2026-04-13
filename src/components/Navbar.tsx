@@ -14,7 +14,7 @@ export default function Navbar() {
             <img src="/ant-logo.png" alt="ANT Logo" style={{ width: 72, height: 72, objectFit: 'contain' }} />
             <div>
               <div style={{ fontFamily: "'Playfair Display', serif", fontWeight: 700, color: 'var(--cream)', fontSize: '0.95rem', lineHeight: 1.2 }}>ACCELERATING NETWORK TOGETHER</div>
-              <div style={{ fontSize: '0.6rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)', fontWeight: 600 }}>ANT · Kenya (HQ: Eldoret)</div>
+              <div style={{ fontSize: '0.6rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)', fontWeight: 600 }}>ANT · Kenya (HQ: Nairobi)</div>
             </div>
           </a>
 

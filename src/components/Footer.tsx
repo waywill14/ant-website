@@ -38,7 +38,7 @@ export default function Footer() {
               <img src="/ant-logo.png" alt="ANT Logo" style={{ width: 80, height: 80, objectFit: 'contain' }} />
               <div>
                 <div style={{ fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: '1rem' }}>ACCELERATING NETWORK TOGETHER</div>
-                <div style={{ fontSize: '0.65rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)' }}>ANT · Kenya (HQ: Eldoret)</div>
+                <div style={{ fontSize: '0.65rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--amber)' }}>ANT · Kenya (HQ: Nairobi)</div>
               </div>
             </div>
             <p style={{ fontSize: '0.88rem', lineHeight: 1.8, color: 'rgba(245,240,232,0.6)', maxWidth: 340 }}>
