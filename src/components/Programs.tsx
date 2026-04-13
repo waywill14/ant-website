@@ -12,7 +12,7 @@ const programs = [
     title: 'Increase Access to Healthcare',
     desc: 'Expanding cancer screening and health services to underserved Kenyan communities through mobile clinics, trained community health workers, and preventive care campaigns.',
     details: 'Our health initiatives prioritize early detection. We conduct free breast, cervical, and prostate cancer screening camps across rural Kenya. We also partner with local hospitals to subsidize treatments for marginalized groups and continuously build the capacity of community health workers to recognize early symptoms.',
-    img: 'https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&h=240&fit=crop&q=80',
+    img: '/screening.png',
     alt: 'African health workers cancer screening Kenya',
   },
   {
@@ -36,7 +36,7 @@ const programs = [
     title: 'Improve Water, Sanitation & Hygiene',
     desc: 'Constructing clean water points, sanitation facilities, and conducting hygiene behavior-change communication in Kenyan schools and communities.',
     details: 'By drilling boreholes in arid regions, distributing essential water purification kits, and constructing eco-friendly latrines in public schools, we significantly reduce the prevalence of waterborne diseases and drastically improve school attendance rates.',
-    img: 'https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?w=600&h=240&fit=crop&q=80',
+    img: '/water.jpg',
     alt: 'African community WASH program Kenya',
   },
   {
