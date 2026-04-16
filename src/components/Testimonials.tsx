@@ -7,15 +7,15 @@ const QuoteIcon = () => (
 const testimonials = [
   {
     quote: '"ANT\'s health outreach and cancer screening program reached my family when we had no access to a clinic. Today my children are vaccinated and my wife received maternal care. This organization gave us hope."',
-    name: 'James M.',
-    role: 'Community Member, Kisumu',
-    img: 'https://images.unsplash.com/photo-1531384441138-2736e62e0919?w=60&h=60&fit=crop&q=80',
+    name: 'Brenda Chemutai',
+    role: 'Community Member, Eldoret',
+    img: '/lady.jpg',
   },
   {
     quote: '"The vocational training I received through ANT helped me start a tailoring business. I now employ two other women from my community. The transformation is real and lasting."',
-    name: 'Grace W.',
-    role: 'Program Graduate, Nairobi',
-    img: 'https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=60&h=60&fit=crop&q=80',
+    name: 'Amos Yator',
+    role: 'Programme Graduate, Nairobi',
+    img: '/man.jpg',
   },
   {
     quote: '"As a partner organization, we\'ve seen how ANT\'s community-first approach creates real, measurable change across Kenya. Their transparency and dedication make collaboration a joy."',
